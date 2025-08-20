@@ -1,0 +1,28 @@
+[
+  {
+    "id": "adfede9f-1562-4a8c-82d6-13477ea941cd",
+    "email": "eyesilnacar00@gmail.com",
+    "passwordHash": "$2b$10$82N8pl4hMxPjW07P5sRyA.schxzvY9xb6x6MP9xmhw3B2NujWfU66",
+    "isVerified": false,
+    "verifyToken": "3ae5355d317c594858a96fe58307b03c7e0ab603f215e8c703cce43571fbc2a0",
+    "createdAt": "2025-08-20T08:48:50.748Z",
+    "verifiedAt": null
+  },
+  {
+    "id": "d0c4a67d-4f81-4f23-9afd-154c91012844",
+    "email": "yesilnacare@gmail.com",
+    "passwordHash": "$2b$10$pjHwugL8DSpqjxdOtRP0luC5zQMbm7kbp/hFX5MaqF4Uuo/gNV2aK",
+    "isVerified": false,
+    "verifyToken": "9107416b6278ca91ef1c49740c91ea9820f56b887d9ca622eeb040b63a329e04",
+    "createdAt": "2025-08-20T09:00:39.415Z",
+    "verifiedAt": null
+  },
+  {
+    "id": "fe89c295-7b66-49dd-981e-7f679462df1b",
+    "email": "okkes77okkes@gmail.com",
+    "passwordHash": "$2b$10$9LU6KNYKJ7emdtMc3CZlF.Vz2ujSxHVPSPV4xZ9E3jD4rTtpD7veK",
+    "isVerified": true,
+    "createdAt": "2025-08-20T09:03:19.317Z",
+    "verifiedAt": "2025-08-20T09:03:38.796Z"
+  }
+]

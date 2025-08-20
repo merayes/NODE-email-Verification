@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Giriş Yap</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="auth-card" aria-labelledby="title">
+      <header class="auth-header">
+        <h1 id="title" class="auth-title">Giriş Yap</h1>
+        <p class="auth-subtitle">Doğrulanmış hesabınızla devam edin</p>
+      </header>
+
+      <form class="form" method="post" action="/login">
+        <div class="field">
+          <label class="label" for="email">Email</label>
+          <input class="input" id="email" name="email" type="email" autocomplete="email" required />
+        </div>
+
+        <div class="field">
+          <label class="label" for="password">Şifre</label>
+          <input class="input" id="password" name="password" type="password" minlength="6" autocomplete="current-password" required />
+        </div>
+
+        <div class="actions">
+          <button class="button" type="submit">Giriş Yap</button>
+        </div>
+      </form>
+
+      <p class="meta">Hesabınız yok mu? <a href="/register">Kayıt olun</a></p>
+    </main>
+  </body>
+  
+</html>
+
+
